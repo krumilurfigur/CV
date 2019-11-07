@@ -7,7 +7,6 @@ nav {
     margin-left: -10%;
     padding: 30px;
     background-color: black;
-    float: top;
 }
 
 body {
@@ -37,7 +36,6 @@ main {
 
 .name {
     font-size: 4em;
-    align-items: top;
     padding:50px;
     border-bottom: 1px solid black;
 }
